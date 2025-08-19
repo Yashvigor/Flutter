@@ -1,0 +1,11 @@
+==> Flutter Container
+
+--> A widget that combines:
+- Common painting
+- Positioning
+- Sizing of child widgets
+- A class to store one or more widgets and position them on the screen as needed.
+- Similar to a box for storing contents.
+- Provides many attributes for decoration of its child widget(s), such as:
+- Margin → separates the container from other contents.
+
