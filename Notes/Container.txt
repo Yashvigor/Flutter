@@ -16,3 +16,9 @@
 - Inkwell will respond when the ser clicks it / Tap on it.
 - There are so many gestures like double-tep, long press, tap dowm, etc.
 
+==> List View
+- ListView in flutter is a widget used to display items in a linear manner.
+- For example, list view is used in apps like zomato and swiggy to display a list of  restaurants.
+- Since it is scrollable we can display multiple items on the same screen.
+- If the scroll direction is vertical the children will be arranged one after another from top to bottom.
+- If the scroll direction is horizontal the children will be arranged one after another from left to right.
