@@ -9,3 +9,10 @@
 - Provides many attributes for decoration of its child widget(s), such as:
 - Margin → separates the container from other contents.
 
+==> InkWell
+
+- InkWell is the material widget in flutter.
+- It responds to the touch action as performed by the user.
+- Inkwell will respond when the ser clicks it / Tap on it.
+- There are so many gestures like double-tep, long press, tap dowm, etc.
+
