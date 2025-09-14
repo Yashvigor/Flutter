@@ -1,0 +1,18 @@
+===> Data Types:-- 
+
+1) integer
+2) text (for string)
+3) boolean
+4) real (for floating point values)
+5) blob ( binary large object for byte array kbs, mbs, gbs)
+
+===> CRUD operations:-- (Create Read Update Delete)
+
+1) insert (set)
+2) select (fetch)
+3) update (edit)
+4) delete (remove) 
+
+
+
+
